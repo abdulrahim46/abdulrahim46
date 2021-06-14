@@ -1,4 +1,4 @@
-### Hey there My name is Abdul Rahim. What's up!?
+### Hey there My name is Abdul. What's up!?
 
 - 🔭 I’m currently working on iOS apps
 - 🌱 I’m currently learning RxSwift
