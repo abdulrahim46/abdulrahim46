@@ -1,6 +1,17 @@
-[![](https://raw.githubusercontent.com/abdulrahim46/abdulrahim46/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/abdulrahim46/abdulrahim46/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/abdulrahim46/abdulrahim46/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/abdulrahim46/socathie/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/abdulrahim46/abdulrahim46/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+Hello World!
+
+
+
+
+🔭 I’m currently working on iOS apps
+🌱 I’m currently learning SwiftUI
+👯 I’m looking to collaborate on Open sources Projects
+🤔 I’m looking for help with Mobile stuffs.
+🌱 I’m currently learning SwiftUI, Ruby & Go.
+👯 I’m looking to collaborate on Open sources Projects.
+💬 Ask me about Coffee, Bikes, or Code Reviews.
+📫 How to reach me: abdul7716@gmail.com
+⚡ Fun fact: I can binge code up to 18 hrs/per day.
 
 
 
